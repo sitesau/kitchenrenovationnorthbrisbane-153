@@ -1,0 +1,22 @@
+{
+  "wheel_id": 686,
+  "structure": "umbrella",
+  "slug": "kitchenrenovationnorthbrisbane-153",
+  "project": "kitchen-renovations-north-brisbane-13c04fed7a2eb4e1346082283ffa",
+  "parent_t1_ref": "kitchenrenovationnorthbrisbane-011",
+  "node_role": "buffer",
+  "money_target": "kitchenrenovationnorthbrisbane.com.au",
+  "primary_kw": "kitchen renovations north brisbane",
+  "intended_url": "https://sitesau.github.io/kitchenrenovationnorthbrisbane-153/",
+  "tier": "T2",
+  "writeback_nonce": "419bab831bc36da6",
+  "links": [
+    {
+      "target_url": "https://kitchen-renovations-north-brisbane-kitchenrenovationnort-11356a.gitlab.io/",
+      "anchor": "more on kitchen renovations north brisbane",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
